@@ -1,0 +1,42 @@
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreLogic\bin\Debug\net7.0\CoreLogic.deps.json
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreLogic\bin\Debug\net7.0\CoreLogic.dll
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreLogic\bin\Debug\net7.0\CoreLogic.pdb
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreLogic\obj\Debug\net7.0\CoreLogic.csproj.AssemblyReference.cache
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreLogic\obj\Debug\net7.0\CoreLogic.GeneratedMSBuildEditorConfig.editorconfig
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreLogic\obj\Debug\net7.0\CoreLogic.AssemblyInfoInputs.cache
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreLogic\obj\Debug\net7.0\CoreLogic.AssemblyInfo.cs
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreLogic\obj\Debug\net7.0\CoreLogic.csproj.CoreCompileInputs.cache
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreLogic\obj\Debug\net7.0\CoreLogic.dll
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreLogic\obj\Debug\net7.0\refint\CoreLogic.dll
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreLogic\obj\Debug\net7.0\CoreLogic.pdb
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreLogic\obj\Debug\net7.0\ref\CoreLogic.dll
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreLogic\bin\Debug\net7.0\CoreLogic.runtimeconfig.json
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreLogic\obj\Debug\net7.0\CoreLogic.genruntimeconfig.cache
+E:\saheb\EventBookingNexTurn\CoreLogic\bin\Debug\net7.0\CoreLogic.deps.json
+E:\saheb\EventBookingNexTurn\CoreLogic\bin\Debug\net7.0\CoreLogic.runtimeconfig.json
+E:\saheb\EventBookingNexTurn\CoreLogic\bin\Debug\net7.0\CoreLogic.dll
+E:\saheb\EventBookingNexTurn\CoreLogic\bin\Debug\net7.0\CoreLogic.pdb
+E:\saheb\EventBookingNexTurn\CoreLogic\obj\Debug\net7.0\CoreLogic.csproj.AssemblyReference.cache
+E:\saheb\EventBookingNexTurn\CoreLogic\obj\Debug\net7.0\CoreLogic.GeneratedMSBuildEditorConfig.editorconfig
+E:\saheb\EventBookingNexTurn\CoreLogic\obj\Debug\net7.0\CoreLogic.AssemblyInfoInputs.cache
+E:\saheb\EventBookingNexTurn\CoreLogic\obj\Debug\net7.0\CoreLogic.AssemblyInfo.cs
+E:\saheb\EventBookingNexTurn\CoreLogic\obj\Debug\net7.0\CoreLogic.csproj.CoreCompileInputs.cache
+E:\saheb\EventBookingNexTurn\CoreLogic\obj\Debug\net7.0\CoreLogic.dll
+E:\saheb\EventBookingNexTurn\CoreLogic\obj\Debug\net7.0\refint\CoreLogic.dll
+E:\saheb\EventBookingNexTurn\CoreLogic\obj\Debug\net7.0\CoreLogic.pdb
+E:\saheb\EventBookingNexTurn\CoreLogic\obj\Debug\net7.0\CoreLogic.genruntimeconfig.cache
+E:\saheb\EventBookingNexTurn\CoreLogic\obj\Debug\net7.0\ref\CoreLogic.dll
+E:\NexTurn Work\Project\EventBookingNexTurn\CoreLogic\bin\Debug\net7.0\CoreLogic.deps.json
+E:\NexTurn Work\Project\EventBookingNexTurn\CoreLogic\bin\Debug\net7.0\CoreLogic.runtimeconfig.json
+E:\NexTurn Work\Project\EventBookingNexTurn\CoreLogic\bin\Debug\net7.0\CoreLogic.dll
+E:\NexTurn Work\Project\EventBookingNexTurn\CoreLogic\bin\Debug\net7.0\CoreLogic.pdb
+E:\NexTurn Work\Project\EventBookingNexTurn\CoreLogic\obj\Debug\net7.0\CoreLogic.csproj.AssemblyReference.cache
+E:\NexTurn Work\Project\EventBookingNexTurn\CoreLogic\obj\Debug\net7.0\CoreLogic.GeneratedMSBuildEditorConfig.editorconfig
+E:\NexTurn Work\Project\EventBookingNexTurn\CoreLogic\obj\Debug\net7.0\CoreLogic.AssemblyInfoInputs.cache
+E:\NexTurn Work\Project\EventBookingNexTurn\CoreLogic\obj\Debug\net7.0\CoreLogic.AssemblyInfo.cs
+E:\NexTurn Work\Project\EventBookingNexTurn\CoreLogic\obj\Debug\net7.0\CoreLogic.csproj.CoreCompileInputs.cache
+E:\NexTurn Work\Project\EventBookingNexTurn\CoreLogic\obj\Debug\net7.0\CoreLogic.dll
+E:\NexTurn Work\Project\EventBookingNexTurn\CoreLogic\obj\Debug\net7.0\refint\CoreLogic.dll
+E:\NexTurn Work\Project\EventBookingNexTurn\CoreLogic\obj\Debug\net7.0\CoreLogic.pdb
+E:\NexTurn Work\Project\EventBookingNexTurn\CoreLogic\obj\Debug\net7.0\CoreLogic.genruntimeconfig.cache
+E:\NexTurn Work\Project\EventBookingNexTurn\CoreLogic\obj\Debug\net7.0\ref\CoreLogic.dll

@@ -1,0 +1,45 @@
+﻿@page
+@model WebApp.Pages.UserModel
+@{
+}
+<h4 style="text-align:right"><button class="btn btn-primary"><a style="color:white;text-decoration:none" href="./EventPages/Index"> Back to Events-> </a></button></h4>
+@if(true){
+	<div class="text-center">
+		<table class="table table-bordered table-striped">
+			<thead>
+				<tr>
+					<th>
+						ID
+					</th>
+					<th>
+						Name
+					</th>
+					<th>
+						UserName
+					</th>
+					
+
+				</tr>
+			</thead>
+			<tbody>
+				@foreach (var obj in Model.user)
+				{
+					<tr>
+						<th>
+							@obj.Id
+						</th>
+						<th>
+							@obj.Name
+						</th>
+						<th>
+							@obj.UserName
+						</th>
+						
+
+
+					</tr>
+				}
+			</tbody>
+		</table>
+	</div>
+}

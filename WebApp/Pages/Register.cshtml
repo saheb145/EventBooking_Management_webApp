@@ -1,0 +1,31 @@
+﻿@page
+@model WebApp.Pages.RegisterModel
+@{
+}
+<h4>Register</h4>
+
+<hr />
+
+<div class="row">
+    <div class="col-md-4">
+        <form method="post">
+            <div asp-validation-summary="All" class="text-danger"></div>
+
+            <label asp-for="FullName" class="control-label"></label>
+            <input asp-for="FullName" class="form-control" />
+
+            <label asp-for="UserName" class="control-label"></label>
+            <input asp-for="UserName" class="form-control" />
+
+            <label asp-for="Password" class="control-label"></label>
+            <input asp-for="Password" type="password" class="form-control" />
+
+            <label asp-for="ConfirmPassword" class="control-label"></label>
+            <input asp-for="ConfirmPassword" type="password" class="form-control" />
+
+            <br />
+            <input type="submit" value="Register" class="btn btn-primary" />
+        </form>
+    </div>
+    <a href="/Login">Login</a>
+</div>

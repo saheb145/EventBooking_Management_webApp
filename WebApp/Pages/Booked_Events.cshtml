@@ -1,0 +1,55 @@
+﻿@page
+@model WebApp.Pages.Booked_EventsModel
+@{
+}
+<h3 class="text-center">Your Booked Event</h3>
+<div class="text-center">
+	<table class="table table-bordered table-striped">
+		<thead>
+			<tr>
+				<th>
+					EventType
+				</th>
+				<th>
+					Venue
+				</th>
+				<th>
+					NoofGuest
+				</th>
+				<th>
+					BookingDate
+				</th>
+			</tr>
+		</thead>
+	@*	<a href="/EventPages/Create" class="btn btn-primary">Create Event</a>*@
+		<tbody>
+			@foreach (var obj in Model.bookEvents)
+			{
+				<tr>
+					<th>
+						@obj.EventType
+					</th>
+					<th>
+						@obj.Venue
+					</th>
+					<th>
+						@obj.NoofGuest
+					</th>
+					<th>
+						@obj.BookingDate
+					</th>
+					<th>
+						<span class="mt-2"><button class="btn btn-primary"><a style="color:white;text-decoration:none" asp-page="/EventPages/Edit" asp-route-id="@obj.Id"><b>Edit</b></a></button></span>
+						<span class="mt-2"><button class="btn btn-primary"><a style="color:white;text-decoration:none" asp-page="/EventPages/Details" asp-route-id="@obj.Id"><b>Details</b></a></button></span>
+						<span class="mt-2"><button class="btn btn-primary"><a style="color:white;text-decoration:none" asp-page="/EventPages/Delete" asp-route-id="@obj.Id"><b>Delete</b></a></button></span>
+
+					</th>
+				</tr>
+
+
+
+
+			}
+		</tbody>
+	</table>
+</div>

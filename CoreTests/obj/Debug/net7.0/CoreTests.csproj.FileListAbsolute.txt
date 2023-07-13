@@ -1,0 +1,342 @@
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreTests\obj\Debug\net7.0\CoreTests.csproj.AssemblyReference.cache
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreTests\obj\Debug\net7.0\CoreTests.GeneratedMSBuildEditorConfig.editorconfig
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreTests\obj\Debug\net7.0\CoreTests.AssemblyInfoInputs.cache
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreTests\obj\Debug\net7.0\CoreTests.AssemblyInfo.cs
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreTests\obj\Debug\net7.0\CoreTests.csproj.CoreCompileInputs.cache
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\CoverletSourceRootsMapping
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\testhost.dll
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\testhost.exe
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\NUnit3.TestAdapter.dll
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\NUnit3.TestAdapter.pdb
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\nunit.engine.dll
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\nunit.engine.api.dll
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\nunit.engine.core.dll
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\testcentric.engine.metadata.dll
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\CoreTests.deps.json
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\CoreTests.runtimeconfig.json
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\CoreTests.dll
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\CoreTests.pdb
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\Microsoft.TestPlatform.CoreUtilities.dll
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\Microsoft.TestPlatform.Utilities.dll
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\NuGet.Frameworks.dll
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\nunit.framework.dll
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\CoreLogic.dll
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\CoreLogic.pdb
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreTests\obj\Debug\net7.0\CoreTests.csproj.CopyComplete
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreTests\obj\Debug\net7.0\CoreTests.dll
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreTests\obj\Debug\net7.0\refint\CoreTests.dll
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreTests\obj\Debug\net7.0\CoreTests.pdb
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreTests\obj\Debug\net7.0\CoreTests.genruntimeconfig.cache
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreTests\obj\Debug\net7.0\ref\CoreTests.dll
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\Azure.Core.dll
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\Azure.Identity.dll
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\Microsoft.Extensions.Caching.Memory.dll
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\Microsoft.Extensions.Logging.dll
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\System.Memory.Data.dll
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\Microsoft.AspNetCore.Http.Features.dll
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.dll
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.Cookies.dll
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.Core.dll
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\Microsoft.AspNetCore.DataProtection.dll
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\Microsoft.AspNetCore.Http.dll
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\Microsoft.AspNetCore.Http.Extensions.dll
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\Microsoft.AspNetCore.WebUtilities.dll
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\Microsoft.Extensions.ObjectPool.dll
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\Microsoft.Extensions.WebEncoders.dll
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\Microsoft.Net.Http.Headers.dll
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\System.Security.Cryptography.Pkcs.dll
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\System.Security.Cryptography.Xml.dll
+D:\NexTurn_ASP.Net Core\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Security.Cryptography.Pkcs.dll
+E:\saheb\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\CoverletSourceRootsMapping
+E:\saheb\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\testhost.exe
+E:\saheb\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\testhost.dll
+E:\saheb\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\NUnit3.TestAdapter.dll
+E:\saheb\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\NUnit3.TestAdapter.pdb
+E:\saheb\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\nunit.engine.dll
+E:\saheb\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\nunit.engine.api.dll
+E:\saheb\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\nunit.engine.core.dll
+E:\saheb\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\testcentric.engine.metadata.dll
+E:\saheb\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\CoreTests.deps.json
+E:\saheb\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\CoreTests.runtimeconfig.json
+E:\saheb\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\CoreTests.dll
+E:\saheb\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\CoreTests.pdb
+E:\saheb\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\Azure.Core.dll
+E:\saheb\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\Azure.Identity.dll
+E:\saheb\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.dll
+E:\saheb\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.Abstractions.dll
+E:\saheb\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.Cookies.dll
+E:\saheb\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.Core.dll
+E:\saheb\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\saheb\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\Microsoft.AspNetCore.DataProtection.dll
+E:\saheb\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+E:\saheb\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\Microsoft.AspNetCore.Hosting.Abstractions.dll
+E:\saheb\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+E:\saheb\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\Microsoft.AspNetCore.Http.dll
+E:\saheb\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\Microsoft.AspNetCore.Http.Abstractions.dll
+E:\saheb\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\Microsoft.AspNetCore.Http.Extensions.dll
+E:\saheb\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\Microsoft.AspNetCore.Http.Features.dll
+E:\saheb\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\Microsoft.AspNetCore.WebUtilities.dll
+E:\saheb\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\saheb\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+E:\saheb\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+E:\saheb\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\saheb\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\saheb\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\saheb\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\saheb\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\saheb\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\Microsoft.Extensions.Caching.Memory.dll
+E:\saheb\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\saheb\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+E:\saheb\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\saheb\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\saheb\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\saheb\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\Microsoft.Extensions.Logging.dll
+E:\saheb\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\saheb\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\Microsoft.Extensions.ObjectPool.dll
+E:\saheb\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+E:\saheb\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+E:\saheb\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\Microsoft.Extensions.WebEncoders.dll
+E:\saheb\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+E:\saheb\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\saheb\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+E:\saheb\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\saheb\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\saheb\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\saheb\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\saheb\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\saheb\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\Microsoft.Net.Http.Headers.dll
+E:\saheb\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+E:\saheb\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\Microsoft.TestPlatform.CoreUtilities.dll
+E:\saheb\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+E:\saheb\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+E:\saheb\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+E:\saheb\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+E:\saheb\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\Microsoft.TestPlatform.Utilities.dll
+E:\saheb\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+E:\saheb\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\saheb\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\Newtonsoft.Json.dll
+E:\saheb\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\NuGet.Frameworks.dll
+E:\saheb\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\nunit.framework.dll
+E:\saheb\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\saheb\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\saheb\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\saheb\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\System.Memory.Data.dll
+E:\saheb\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\System.Runtime.Caching.dll
+E:\saheb\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\System.Security.Cryptography.Pkcs.dll
+E:\saheb\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\saheb\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\System.Security.Cryptography.Xml.dll
+E:\saheb\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\saheb\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\saheb\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\saheb\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\saheb\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\saheb\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\saheb\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\saheb\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\saheb\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\saheb\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\saheb\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\saheb\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\saheb\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\saheb\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\saheb\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\saheb\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\saheb\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\saheb\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\saheb\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\saheb\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\saheb\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\saheb\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\saheb\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\saheb\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\saheb\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\saheb\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\saheb\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\saheb\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\saheb\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\saheb\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\saheb\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\saheb\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\saheb\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\saheb\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\saheb\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\saheb\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\saheb\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\saheb\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\saheb\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\saheb\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\saheb\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\saheb\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\saheb\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\saheb\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\saheb\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\saheb\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\saheb\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\saheb\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\saheb\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\saheb\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\saheb\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\saheb\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\saheb\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\saheb\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\saheb\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\saheb\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\saheb\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\saheb\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\saheb\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\saheb\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\saheb\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\saheb\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\saheb\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\saheb\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\saheb\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\saheb\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\saheb\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\saheb\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\saheb\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\saheb\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\saheb\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\saheb\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\saheb\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\saheb\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\saheb\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\saheb\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\saheb\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\saheb\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Security.Cryptography.Pkcs.dll
+E:\saheb\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\saheb\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\saheb\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\CoreLogic.dll
+E:\saheb\EventBookingNexTurn\CoreTests\bin\Debug\net7.0\CoreLogic.pdb
+E:\saheb\EventBookingNexTurn\CoreTests\obj\Debug\net7.0\CoreTests.csproj.AssemblyReference.cache
+E:\saheb\EventBookingNexTurn\CoreTests\obj\Debug\net7.0\CoreTests.GeneratedMSBuildEditorConfig.editorconfig
+E:\saheb\EventBookingNexTurn\CoreTests\obj\Debug\net7.0\CoreTests.AssemblyInfoInputs.cache
+E:\saheb\EventBookingNexTurn\CoreTests\obj\Debug\net7.0\CoreTests.AssemblyInfo.cs
+E:\saheb\EventBookingNexTurn\CoreTests\obj\Debug\net7.0\CoreTests.csproj.CoreCompileInputs.cache
+E:\saheb\EventBookingNexTurn\CoreTests\obj\Debug\net7.0\CoreTests.csproj.CopyComplete
+E:\saheb\EventBookingNexTurn\CoreTests\obj\Debug\net7.0\CoreTests.dll
+E:\saheb\EventBookingNexTurn\CoreTests\obj\Debug\net7.0\refint\CoreTests.dll
+E:\saheb\EventBookingNexTurn\CoreTests\obj\Debug\net7.0\CoreTests.pdb
+E:\saheb\EventBookingNexTurn\CoreTests\obj\Debug\net7.0\CoreTests.genruntimeconfig.cache
+E:\saheb\EventBookingNexTurn\CoreTests\obj\Debug\net7.0\ref\CoreTests.dll

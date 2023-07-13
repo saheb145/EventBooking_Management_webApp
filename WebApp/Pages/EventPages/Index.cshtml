@@ -1,0 +1,68 @@
+﻿@page
+@model WebApp.Pages.EventPages.IndexModel
+@{
+}
+
+<h3 class="text-center">User's Event</h3>
+
+
+<h4 style="text-align:right"><button class="btn btn-primary"><a style="color:white;text-decoration:none" href="../User"> Users-> </a></button></h4>
+
+
+<div class="text-center">
+	<table class="table table-bordered table-striped">
+		<thead>
+			<tr>
+				<th>
+					EventType
+				</th>
+				<th>
+					Venue
+				</th>
+				<th>
+					NoofGuest
+				</th>
+				<th>
+					BookingDate
+				</th>
+				<th>
+					User
+				</th>
+				<th>
+					Action
+				</th>
+			</tr>
+		</thead>
+	@*	<a href="/EventPages/Create" class="btn btn-primary">Create Event</a>*@
+		<tbody>
+			@foreach (var obj in Model.bookEvents)
+			{
+				<tr>
+					<td>
+						@obj.EventType
+					</td>
+					<td>
+						@obj.Venue
+					</td>
+					<td>
+						@obj.NoofGuest
+					</td>
+					<td>
+						@obj.BookingDate
+					</td>
+					<td>
+						@obj.UserId
+					</td>
+					<td>
+						<form method="post" asp-page-handler="Delete" asp-route-eventId="@obj.Id">
+							<input type="hidden" asp-for="@obj.Id" />
+							<button type="submit" class="btn btn-primary">Cancel</button>
+						</form>
+
+					</td>
+				</tr>
+
+			}
+		</tbody>
+	</table>
+</div>
